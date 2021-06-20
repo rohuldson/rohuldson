@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 # Ronald Silva 
 ##:octocat: Sejam bem-vindos :space_invader:
+
+Let's code! 👨‍💻
  <div>
   <a href="https://github.com/rohuldson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohuldson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
