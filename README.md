@@ -44,9 +44,10 @@ Let's code! :man_technologist:
   <img align="center" alt="Monica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Monica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Monica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
    <img align="center" alt="Monica-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
    <img align="center" alt="Monica-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">
-    <img align="center" alt="Monica-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">
+   <img align="center" alt="Monica-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">
  
   
   
