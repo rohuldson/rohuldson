@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-# Ronald Silva 
+# I'm Ronald Silva 
+- I live in São Paulo - :brazil:
 
 Passionate about education
 
