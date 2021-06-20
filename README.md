@@ -17,9 +17,15 @@ Here are some ideas to get you started:
 
 
 # Ronald Silva 
+
+Passionate about education
+
+
+"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 ##:octocat: Sejam bem-vindos :space_invader:
 
-Let's code! :man_technologist: :male-technologist:
+Let's code! :man_technologist: 
+
  <div>
   <a href="https://github.com/rohuldson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohuldson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
