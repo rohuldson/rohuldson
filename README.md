@@ -1,4 +1,4 @@
-### Hi there 👋 this is my name
+### Hi there 👋 Nice to see you here!
 
 <!--
 **rohuldson/rohuldson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ Passionate about education
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
 ## 
-:octocat: it's so good to see you here! :space_invader:
+:octocat: WELCOME! :space_invader:
 
 Let's code! :man_technologist: 
 
