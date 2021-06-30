@@ -62,13 +62,6 @@ Let's code! :man_technologist:
   
  </div>
  
-
-
-  
- 
-  
-  ##
-
-
+ ![Snake animation](https://github.com/rohuldson/rohuldson/blob/output/github-contribution-grid-snake.svg)
 
 
