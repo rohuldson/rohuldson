@@ -67,7 +67,7 @@ Let's code! :man_technologist:
     <img align="center" alt="Monica-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">
  
   
-   ![Snake animation](https://github.com/rohuldson/rohuldson/blob/output/github-contribution-grid-snake.svg)
+
  
  </div>
 
