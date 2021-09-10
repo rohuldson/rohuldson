@@ -28,9 +28,8 @@ Passionate about education
 :octocat: WELCOME! :space_invader:
 
 Let's code! :man_technologist: 
-<div>
-   
 
+ <div>
   <a href="https://github.com/rohuldson">
    
 ##   
@@ -57,20 +56,27 @@ Let's code! :man_technologist:
  
    <img align="center" alt="Monica-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
    <img align="center" alt="Monica-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">
-    <img align="center" alt="Monica-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">  
-    
-      ![Snake animation](https://github.com/rohuldson/rohuldson/blob/output/github-contribution-grid-snake.svg)
-   
-   - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
-   
-
+    <img align="center" alt="Monica-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">
+ 
+  
+  
  
  </div>
-   
  
+  ![Snake animation](https://github.com/rohuldson/rohuldson/blob/output/github-contribution-grid-snake.svg)
  
+ - uses: rohuldson
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # path of the generated gif file
+    # If left empty, the gif file will not be generated
+    gif_out_path: dist/github-snake.gif
+
+    # path of the generated svg file
+    # If left empty, the svg file will not be generated
+    svg_out_path: dist/github-snake.svg
+
 
