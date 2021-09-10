@@ -30,9 +30,7 @@ Passionate about education
 Let's code! :man_technologist: 
 <div>
    
- </div>
 
- <div>
   <a href="https://github.com/rohuldson">
    
 ##   
@@ -61,17 +59,18 @@ Let's code! :man_technologist:
    <img align="center" alt="Monica-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">
     <img align="center" alt="Monica-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">  
     
-   
-
- 
- </div>
-   
-    ![Snake animation](https://github.com/rohuldson/rohuldson/blob/output/github-contribution-grid-snake.svg)
+      ![Snake animation](https://github.com/rohuldson/rohuldson/blob/output/github-contribution-grid-snake.svg)
    
    - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
+   
+
+ 
+ </div>
+   
+ 
  
 
