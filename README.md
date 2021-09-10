@@ -33,7 +33,7 @@ Let's code! :man_technologist:
   <a href="https://github.com/rohuldson">
    
 ##   
-   ![Snake animation](https://github.com/rafaballerini/rohuldson/blob/output/github-contribution-grid-snake.svg)
+  
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohuldson&show_icons=true&theme=radical"/>
   
@@ -65,18 +65,6 @@ Let's code! :man_technologist:
  
   ![Snake animation](https://github.com/rohuldson/rohuldson/blob/output/github-contribution-grid-snake.svg)
  
- - uses: rohuldson
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # path of the generated gif file
-    # If left empty, the gif file will not be generated
-    gif_out_path: dist/github-snake.gif
-
-    # path of the generated svg file
-    # If left empty, the svg file will not be generated
-    svg_out_path: dist/github-snake.svg
+ 
 
 
